@@ -5,13 +5,15 @@ VisualStudioVersion = 17.7.34018.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Casting", "Lesson_3\Casting\Casting.csproj", "{A108DC97-4ABE-4CD0-97EF-93E9C5723C0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapTwoVariables", "Lesson_3\SwapTwoVariables\SwapTwoVariables.csproj", "{1672B153-05AF-4A0F-86D0-A8E4AA9004F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwapTwoVariables", "Lesson_3\SwapTwoVariables\SwapTwoVariables.csproj", "{1672B153-05AF-4A0F-86D0-A8E4AA9004F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distance", "Lesson_3\Distance\Distance.csproj", "{21496B9F-1051-4617-AF50-EAE7F47FAAF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Distance", "Lesson_3\Distance\Distance.csproj", "{21496B9F-1051-4617-AF50-EAE7F47FAAF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number", "Lesson_3\Number\Number.csproj", "{002DC302-C444-4527-9F58-9D075E09E3FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Number", "Lesson_3\Number\Number.csproj", "{002DC302-C444-4527-9F58-9D075E09E3FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PI", "Lesson_3\PI\PI.csproj", "{678B8E23-07C5-4A55-B066-90C971AA3518}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PI", "Lesson_3\PI\PI.csproj", "{678B8E23-07C5-4A55-B066-90C971AA3518}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variables", "Lesson_2\Variables\Variables.csproj", "{4784C65C-9AB6-4194-B390-65AA0494A2BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{678B8E23-07C5-4A55-B066-90C971AA3518}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{678B8E23-07C5-4A55-B066-90C971AA3518}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{678B8E23-07C5-4A55-B066-90C971AA3518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4784C65C-9AB6-4194-B390-65AA0494A2BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4784C65C-9AB6-4194-B390-65AA0494A2BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4784C65C-9AB6-4194-B390-65AA0494A2BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4784C65C-9AB6-4194-B390-65AA0494A2BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
