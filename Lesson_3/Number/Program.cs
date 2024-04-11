@@ -2,11 +2,25 @@
 {
     internal class Program
     {
+        static int Parse(string input)
+        {
+            //int result = int.Parse(input);
+            //return result;
+
+            return int.Parse(input);
+        }
+
         static void Main(string[] args)
         {
-            int number;
+            //int x = 5, y = 5;
+            //if (x == y)
+            //{
+            //    return;
+            //}
+
             Console.Write("Enter number: ");
-            number = int.Parse(Console.ReadLine());
+            int number = Parse(Console.ReadLine());
+            int number2 = Parse("56");
 
             int digit1 = number / 10;
             int digit2 = number % 10;
@@ -18,5 +32,7 @@
             Console.WriteLine($"Sum = {sum}");
             Console.WriteLine($"Mult = {mult}");
         }
+
+
     }
 }
