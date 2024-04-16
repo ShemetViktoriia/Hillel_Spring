@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PI", "Lesson_3\PI\PI.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variables", "Lesson_2\Variables\Variables.csproj", "{4784C65C-9AB6-4194-B390-65AA0494A2BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TernaryOperator", "Lesson_4\TernaryOperator\TernaryOperator.csproj", "{84A13792-644C-4E9B-9230-EB4141A38967}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TernaryOperator", "Lesson_4\TernaryOperator\TernaryOperator.csproj", "{84A13792-644C-4E9B-9230-EB4141A38967}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop", "Lesson_5\Loop\Loop.csproj", "{CC25C79F-4D8A-463C-AA89-86FCBC5F8DF2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{84A13792-644C-4E9B-9230-EB4141A38967}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84A13792-644C-4E9B-9230-EB4141A38967}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84A13792-644C-4E9B-9230-EB4141A38967}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC25C79F-4D8A-463C-AA89-86FCBC5F8DF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC25C79F-4D8A-463C-AA89-86FCBC5F8DF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC25C79F-4D8A-463C-AA89-86FCBC5F8DF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC25C79F-4D8A-463C-AA89-86FCBC5F8DF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
