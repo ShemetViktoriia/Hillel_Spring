@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array2", "Lesson_7\Array2\A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Menu", "Lesson_7\Menu\Menu.csproj", "{7A314F09-C4A3-43C7-AAC2-B700EE45FF38}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Lesson_8\Enum\Calculator.csproj", "{FB731E84-90A7-4CF2-932B-9B58E57AD084}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleOfMenyWithSubmenu", "Lesson_8\ExampleOfMenyWithSubmenu\ExampleOfMenyWithSubmenu.csproj", "{9BAC82ED-D591-459D-8BF0-4135E1DDAD75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{7A314F09-C4A3-43C7-AAC2-B700EE45FF38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A314F09-C4A3-43C7-AAC2-B700EE45FF38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A314F09-C4A3-43C7-AAC2-B700EE45FF38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB731E84-90A7-4CF2-932B-9B58E57AD084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB731E84-90A7-4CF2-932B-9B58E57AD084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB731E84-90A7-4CF2-932B-9B58E57AD084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB731E84-90A7-4CF2-932B-9B58E57AD084}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BAC82ED-D591-459D-8BF0-4135E1DDAD75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BAC82ED-D591-459D-8BF0-4135E1DDAD75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BAC82ED-D591-459D-8BF0-4135E1DDAD75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BAC82ED-D591-459D-8BF0-4135E1DDAD75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
