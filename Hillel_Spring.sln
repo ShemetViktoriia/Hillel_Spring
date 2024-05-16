@@ -45,6 +45,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppForFigureLibExter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "Lesson_11\ExceptionHandling\ExceptionHandling.csproj", "{63A2525A-286C-432A-8CC1-7744F146C2C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceLesson", "Lesson_12\InheritanceLesson\InheritanceLesson.csproj", "{1173B61A-DB6F-49E3-9F01-F7D108804926}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalHierachy", "Lesson_12\AnimalHierachy\AnimalHierachy.csproj", "{2A637A8D-ECBF-4DBD-B69F-51FB8B18402C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +139,14 @@ Global
 		{63A2525A-286C-432A-8CC1-7744F146C2C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63A2525A-286C-432A-8CC1-7744F146C2C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63A2525A-286C-432A-8CC1-7744F146C2C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1173B61A-DB6F-49E3-9F01-F7D108804926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1173B61A-DB6F-49E3-9F01-F7D108804926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1173B61A-DB6F-49E3-9F01-F7D108804926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1173B61A-DB6F-49E3-9F01-F7D108804926}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A637A8D-ECBF-4DBD-B69F-51FB8B18402C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A637A8D-ECBF-4DBD-B69F-51FB8B18402C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A637A8D-ECBF-4DBD-B69F-51FB8B18402C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A637A8D-ECBF-4DBD-B69F-51FB8B18402C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
